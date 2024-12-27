@@ -1,5 +1,7 @@
-# curtains
-Curtains
+# mesemod curtains
+Mesemod Curtains
+
+Consider this a slightly modified version of the curtains mod, though modifications may be to the files and not really to the behavior of the mod itself.
 
 Mod adding coloured curtains, very lightweight
 
