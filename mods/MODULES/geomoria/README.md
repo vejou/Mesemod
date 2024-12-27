@@ -1,5 +1,7 @@
 # geomoria
 
+The version of geomoria in Mesecraft was modified from the original. This is a modified version of that one.
+
 This mod uses a simple table-based description of an underground region to create huge, geomorphic constructions. My goal is to make it look a bit like Tolkien's Moria.
 
 
