@@ -1,3 +1,5 @@
+This is a modified version of Mesecraft's beds mod. The readme below may not apply entirely anymore.
+
 MeseCraft Game mod: beds
 =======================
 See license.txt for license information.
